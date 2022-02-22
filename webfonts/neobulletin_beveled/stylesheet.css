@@ -1,0 +1,5 @@
+@font-face {
+	font-family: 'neobulletin beveled';
+	src: url('neobulletin_beveled-webfont.woff') format('woff'),
+		url('neobulletin_beveled-webfont.svg') format('svg');
+}

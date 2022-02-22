@@ -1,0 +1,10 @@
+#Linhas {
+		width:1024px;
+		height: 768px;
+		margin: 0px auto;
+		border:1px solid red;
+       }
+
+.red_button_class_name{
+	background-color: white;
+}

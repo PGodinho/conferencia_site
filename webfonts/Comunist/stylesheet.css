@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Comunist';
+	src: url('COMMUNIS-webfont.eot');
+	src: url('COMMUNIS-webfont.eot?#iefix') format('embedded-opentype'),
+		url('COMMUNIS-webfont.woff') format('woff'),
+		url('COMMUNIS-webfont.ttf') format('truetype'),
+		url('COMMUNIS-webfont.svg') format('svg');
+}
