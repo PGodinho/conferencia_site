@@ -1,9 +1,0 @@
-# Contributing 
-
-
-## Bugs
-
-
-## Do not…
-
-
