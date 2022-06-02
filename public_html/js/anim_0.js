@@ -1505,7 +1505,7 @@ NodeFire_1516847176 = {
 					id : "Titulo",
 					pUid : "_1516847176",
 					c : 1,
-					con : "<h1>Vida Ativa 2013</h1>"
+					con : "<h1>Vida Ativa</h1>"
 				},
 				_0792066054 : {
 					id : "Linha_Horizontal_1",
